@@ -13,7 +13,7 @@ const Home = () => {
         <Container>
           <Row className="align-items-center">
             <Col md={6}>
-              <h1 className="display-4 fw-bold">Library Management System</h1>
+              <h1 className="display-4 fw-bold">IIIT Kalyani Library Management System</h1>
               <p className="lead">
                 A complete solution for managing books, students, and issuance records
               </p>
